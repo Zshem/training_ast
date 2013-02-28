@@ -1,0 +1,4 @@
+# Training asistant ...
+
+... including RoR 
+
